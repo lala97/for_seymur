@@ -1,0 +1,12 @@
+C:\Users\Lala.M\Desktop\seymur\seymur\bin\Debug\seymur.exe.config
+C:\Users\Lala.M\Desktop\seymur\seymur\bin\Debug\seymur.exe
+C:\Users\Lala.M\Desktop\seymur\seymur\bin\Debug\seymur.pdb
+C:\Users\Lala.M\Desktop\seymur\seymur\obj\Debug\seymur.csprojResolveAssemblyReference.cache
+C:\Users\Lala.M\Desktop\seymur\seymur\obj\Debug\seymur.Form1.resources
+C:\Users\Lala.M\Desktop\seymur\seymur\obj\Debug\seymur.Properties.Resources.resources
+C:\Users\Lala.M\Desktop\seymur\seymur\obj\Debug\seymur.csproj.GenerateResource.Cache
+C:\Users\Lala.M\Desktop\seymur\seymur\obj\Debug\seymur.exe
+C:\Users\Lala.M\Desktop\seymur\seymur\obj\Debug\seymur.pdb
+C:\Users\Lala.M\Desktop\c#_seymur\seymur\seymur\bin\Debug\seymur.exe.config
+C:\Users\Lala.M\Desktop\c#_seymur\seymur\seymur\obj\Debug\seymur.exe
+C:\Users\Lala.M\Desktop\c#_seymur\seymur\seymur\obj\Debug\seymur.pdb
